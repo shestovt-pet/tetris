@@ -2,3 +2,6 @@
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Локальные настройки Claude Code (у каждого свои)
+.claude/settings.local.json
